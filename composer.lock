@@ -84,16 +84,16 @@
         },
         {
             "name": "crowdsec/bouncer",
-            "version": "v1.0.1",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/crowdsecurity/php-cs-bouncer.git",
-                "reference": "c508c199a2f5778d878117cf52321df4c8fcbefb"
+                "reference": "f132937b62fbae5efb72c6666afe74de168b16f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/crowdsecurity/php-cs-bouncer/zipball/c508c199a2f5778d878117cf52321df4c8fcbefb",
-                "reference": "c508c199a2f5778d878117cf52321df4c8fcbefb",
+                "url": "https://api.github.com/repos/crowdsecurity/php-cs-bouncer/zipball/f132937b62fbae5efb72c6666afe74de168b16f6",
+                "reference": "f132937b62fbae5efb72c6666afe74de168b16f6",
                 "shasum": ""
             },
             "require": {
@@ -148,26 +148,26 @@
             ],
             "support": {
                 "issues": "https://github.com/crowdsecurity/php-cs-bouncer/issues",
-                "source": "https://github.com/crowdsecurity/php-cs-bouncer/tree/v1.0.1"
+                "source": "https://github.com/crowdsecurity/php-cs-bouncer/tree/v1.1.1"
             },
-            "time": "2023-02-10T08:18:52+00:00"
+            "time": "2023-02-16T05:36:26+00:00"
         },
         {
             "name": "crowdsec/capi-client",
-            "version": "v2.0.0",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/crowdsecurity/php-capi-client.git",
-                "reference": "a1ba782c7e4d6ae249608e440e7962a58b4ade69"
+                "reference": "726c623259e21b5d464f244829d3df89cff50a7c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/crowdsecurity/php-capi-client/zipball/a1ba782c7e4d6ae249608e440e7962a58b4ade69",
-                "reference": "a1ba782c7e4d6ae249608e440e7962a58b4ade69",
+                "url": "https://api.github.com/repos/crowdsecurity/php-capi-client/zipball/726c623259e21b5d464f244829d3df89cff50a7c",
+                "reference": "726c623259e21b5d464f244829d3df89cff50a7c",
                 "shasum": ""
             },
             "require": {
-                "crowdsec/common": "^1.2.0",
+                "crowdsec/common": "^1.3.0",
                 "ext-json": "*",
                 "monolog/monolog": "^1.17 || ^2.1",
                 "php": "^7.2.5 || ^8.0",
@@ -214,22 +214,22 @@
             ],
             "support": {
                 "issues": "https://github.com/crowdsecurity/php-capi-client/issues",
-                "source": "https://github.com/crowdsecurity/php-capi-client/tree/v2.0.0"
+                "source": "https://github.com/crowdsecurity/php-capi-client/tree/v2.1.0"
             },
-            "time": "2023-02-02T04:41:56+00:00"
+            "time": "2023-02-24T01:44:50+00:00"
         },
         {
             "name": "crowdsec/common",
-            "version": "v1.2.0",
+            "version": "v1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/crowdsecurity/php-common.git",
-                "reference": "e33b37680934b485c199a7ce3c5d5e7cb8c94c83"
+                "reference": "a1e6e8aefbb527ac7c7e7e51df5a87eb0b446453"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/crowdsecurity/php-common/zipball/e33b37680934b485c199a7ce3c5d5e7cb8c94c83",
-                "reference": "e33b37680934b485c199a7ce3c5d5e7cb8c94c83",
+                "url": "https://api.github.com/repos/crowdsecurity/php-common/zipball/a1e6e8aefbb527ac7c7e7e51df5a87eb0b446453",
+                "reference": "a1e6e8aefbb527ac7c7e7e51df5a87eb0b446453",
                 "shasum": ""
             },
             "require": {
@@ -281,9 +281,9 @@
             ],
             "support": {
                 "issues": "https://github.com/crowdsecurity/php-common/issues",
-                "source": "https://github.com/crowdsecurity/php-common/tree/v1.2.0"
+                "source": "https://github.com/crowdsecurity/php-common/tree/v1.3.0"
             },
-            "time": "2023-02-02T02:23:27+00:00"
+            "time": "2023-02-23T01:34:21+00:00"
         },
         {
             "name": "crowdsec/lapi-client",
@@ -980,16 +980,16 @@
         },
         {
             "name": "symfony/cache",
-            "version": "v5.4.19",
+            "version": "v5.4.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/cache.git",
-                "reference": "e9147c89fdfdc5d5ef798bb7193f23726ad609f5"
+                "reference": "32cab695bf99c63aff7d27ac67919944c00530ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/cache/zipball/e9147c89fdfdc5d5ef798bb7193f23726ad609f5",
-                "reference": "e9147c89fdfdc5d5ef798bb7193f23726ad609f5",
+                "url": "https://api.github.com/repos/symfony/cache/zipball/32cab695bf99c63aff7d27ac67919944c00530ed",
+                "reference": "32cab695bf99c63aff7d27ac67919944c00530ed",
                 "shasum": ""
             },
             "require": {
@@ -1057,7 +1057,7 @@
                 "psr6"
             ],
             "support": {
-                "source": "https://github.com/symfony/cache/tree/v5.4.19"
+                "source": "https://github.com/symfony/cache/tree/v5.4.21"
             },
             "funding": [
                 {
@@ -1073,7 +1073,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-01-19T09:49:58+00:00"
+            "time": "2023-02-21T12:11:13+00:00"
         },
         {
             "name": "symfony/cache-contracts",
@@ -1156,16 +1156,16 @@
         },
         {
             "name": "symfony/config",
-            "version": "v5.4.19",
+            "version": "v5.4.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/config.git",
-                "reference": "9bd60843443cda9638efdca7c41eb82ed0026179"
+                "reference": "2a6b1111d038adfa15d52c0871e540f3b352d1e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/config/zipball/9bd60843443cda9638efdca7c41eb82ed0026179",
-                "reference": "9bd60843443cda9638efdca7c41eb82ed0026179",
+                "url": "https://api.github.com/repos/symfony/config/zipball/2a6b1111d038adfa15d52c0871e540f3b352d1e4",
+                "reference": "2a6b1111d038adfa15d52c0871e540f3b352d1e4",
                 "shasum": ""
             },
             "require": {
@@ -1215,7 +1215,7 @@
             "description": "Helps you find, load, combine, autofill and validate configuration values of any kind",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/config/tree/v5.4.19"
+                "source": "https://github.com/symfony/config/tree/v5.4.21"
             },
             "funding": [
                 {
@@ -1231,7 +1231,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-01-08T13:23:55+00:00"
+            "time": "2023-02-14T08:03:56+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -1302,16 +1302,16 @@
         },
         {
             "name": "symfony/filesystem",
-            "version": "v5.4.19",
+            "version": "v5.4.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "648bfaca6a494f3e22378123bcee2894045dc9d8"
+                "reference": "e75960b1bbfd2b8c9e483e0d74811d555ca3de9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/648bfaca6a494f3e22378123bcee2894045dc9d8",
-                "reference": "648bfaca6a494f3e22378123bcee2894045dc9d8",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/e75960b1bbfd2b8c9e483e0d74811d555ca3de9f",
+                "reference": "e75960b1bbfd2b8c9e483e0d74811d555ca3de9f",
                 "shasum": ""
             },
             "require": {
@@ -1346,7 +1346,7 @@
             "description": "Provides basic utilities for the filesystem",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/filesystem/tree/v5.4.19"
+                "source": "https://github.com/symfony/filesystem/tree/v5.4.21"
             },
             "funding": [
                 {
@@ -1362,20 +1362,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-01-14T19:14:44+00:00"
+            "time": "2023-02-14T08:03:56+00:00"
         },
         {
             "name": "symfony/finder",
-            "version": "v5.4.19",
+            "version": "v5.4.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "6071aebf810ad13fe8200c224f36103abb37cf1f"
+                "reference": "078e9a5e1871fcfe6a5ce421b539344c21afef19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/finder/zipball/6071aebf810ad13fe8200c224f36103abb37cf1f",
-                "reference": "6071aebf810ad13fe8200c224f36103abb37cf1f",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/078e9a5e1871fcfe6a5ce421b539344c21afef19",
+                "reference": "078e9a5e1871fcfe6a5ce421b539344c21afef19",
                 "shasum": ""
             },
             "require": {
@@ -1409,7 +1409,7 @@
             "description": "Finds files and directories via an intuitive fluent interface",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/finder/tree/v5.4.19"
+                "source": "https://github.com/symfony/finder/tree/v5.4.21"
             },
             "funding": [
                 {
@@ -1425,7 +1425,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-01-14T19:14:44+00:00"
+            "time": "2023-02-16T09:33:00+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -1914,16 +1914,16 @@
         },
         {
             "name": "symfony/var-exporter",
-            "version": "v5.4.19",
+            "version": "v5.4.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-exporter.git",
-                "reference": "2a1d06fcf2b30829d6c01dae8e6e188424d1f8f6"
+                "reference": "be74908a6942fdd331554b3cec27ff41b45ccad4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/var-exporter/zipball/2a1d06fcf2b30829d6c01dae8e6e188424d1f8f6",
-                "reference": "2a1d06fcf2b30829d6c01dae8e6e188424d1f8f6",
+                "url": "https://api.github.com/repos/symfony/var-exporter/zipball/be74908a6942fdd331554b3cec27ff41b45ccad4",
+                "reference": "be74908a6942fdd331554b3cec27ff41b45ccad4",
                 "shasum": ""
             },
             "require": {
@@ -1967,7 +1967,7 @@
                 "serialize"
             ],
             "support": {
-                "source": "https://github.com/symfony/var-exporter/tree/v5.4.19"
+                "source": "https://github.com/symfony/var-exporter/tree/v5.4.21"
             },
             "funding": [
                 {
@@ -1983,7 +1983,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-01-12T16:39:29+00:00"
+            "time": "2023-02-21T19:46:44+00:00"
         },
         {
             "name": "twig/twig",
